@@ -588,7 +588,7 @@ img {
 
 .footer-social {
   padding: 0;
-  margin: 0;
+  margin-right: 93px;
   display: block;
 }
 
@@ -601,6 +601,20 @@ img {
   text-align: center;
 
   font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+/* e-mail input footer */
+
+.footer-e-mail-title {
+  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
